@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f3ead9"/>
+  <rect x="20" y="20" width="600" height="320" rx="12" fill="none" stroke="#b78f3d" stroke-width="3" stroke-dasharray="10 8"/>
+  <circle cx="320" cy="135" r="38" fill="#d9b15a"/>
+  <path d="M250 250c0-40 30-70 70-70s70 30 70 70v20H250z" fill="#5d2e22"/>
+  <text x="320" y="310" text-anchor="middle" fill="#5d2e22" font-family="Arial, sans-serif" font-size="24">Masukkan foto wayang</text>
+</svg>
